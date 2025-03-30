@@ -11,7 +11,7 @@
 ## How It Works ⚙️
 1. **Start a Game**: A player initializes a game and invites an opponent.
 2. **Move Paddles**: Players adjust their paddle positions by calling the `movePaddle` function.
-3. **Ball Movement**: The ball updates automatically based on elapsed time.
+3. **Ball Movement**: The ball updates automatically based on elapsed time. 
 4. **Winning Condition**: The game ends when the ball reaches the left or right boundary.
 
 ## Smart Contract Functions 📜

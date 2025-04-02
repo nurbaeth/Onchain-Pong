@@ -14,7 +14,7 @@
 3. **Ball Movement**: The ball updates automatically based on elapsed time. 
 4. **Winning Condition**: The game ends when the ball reaches the left or right boundary.
 
-## Smart Contract Functions 📜
+## Smart Contract Functions 📜 
 - `startGame(address _player2)`: Creates a new game between two players.
 - `movePaddle(uint gameId, uint newPosition)`: Moves a player's paddle.
 - `updateGame(uint gameId)`: Updates the ball position and checks for a winner.
